@@ -1,0 +1,130 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+}
+
+body {
+    background-image: url(image/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%px;
+    width: 100%;
+}
+
+.heading {
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+    margin-top: -80px;
+}
+
+.logo {
+    height: 200px;
+    margin-top: -40px;
+}
+
+.formd {
+    height: 664px;
+    width: 53%;
+    background: rgb(215, 235, 238);
+    background: linear-gradient(90deg, rgba(215, 235, 238, 0.26094187675070024) 38%, rgba(240, 240, 245, 0.1881127450980392) 55%);
+}
+
+.div1 {
+    height: 50px;
+     width: 53%;
+    background: rgb(215, 235, 238);
+    background: linear-gradient(90deg, rgba(215, 235, 238, 0.3561799719887955) 14%, rgba(9, 9, 121, 0.5158438375350141) 44%, rgba(2, 0, 36, 0.5886729691876751) 82%);
+   
+}
+
+.div2 {
+    height: 100%;
+    width: 48%;
+    float: left;
+    border-right: 3px solid #fff;
+}
+
+.div3 {
+    height: 100%;
+    width: 50%;
+    float: right;
+}
+
+.logo2 {
+    height: 120px;
+    margin-top: -29px;
+}
+
+.singin {
+    margin-top: 110px;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.box {
+    height: 37px;
+    width: 351px;
+    margin-left: 30px;
+    font-size: 20px;
+    background-color: transparent;
+    border: 0px;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+
+.type {
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.Reminded {
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.logged {
+    padding: 7px 30px;
+    font-size: 20px;
+    margin-left: 260px;
+    border: 1px solid #fff;
+    background-color: transparent;
+}
+
+.logged:hover {
+    background-color: #0e99ad;
+}
+
+.banner {
+    width:86%;
+    margin-top: 15px;
+    margin-left: 33px;
+}
+
+.signup {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.gender {
+    font-size: 20px;
+}
+
+.logged2 {
+    padding: 7px 30px;
+    font-size: 20px;
+    border: 1px solid #fff;
+    background-color: transparent;
+}
+
+.logged2:hover {
+    background-color: #0e99ad;
+}
